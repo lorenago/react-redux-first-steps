@@ -1,3 +1,6 @@
+# Learning Redux
+This mini repo is used to learn react with redux, thanks to Udemy.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -5,6 +8,9 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 ### Getting Started
 
 There are two methods for getting started with this repo.
+
+# Example repository taken from: https://github.com/StephenGrider/ReduxSimpleStarter.git
+How to get it? Follow the steps below
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
